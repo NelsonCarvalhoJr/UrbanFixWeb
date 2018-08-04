@@ -1,0 +1,40 @@
+.grafico {
+	border-bottom:1px solid #ccc;
+	padding:10px;
+	padding-top:20px;
+}
+
+#grafico-alertas-por-status{
+	float: left;
+	width: 600px;
+	height: 300px;
+	position: relative;
+}
+
+#grafico-alertas-por-criticidade{
+	float: left;
+	width: 500px;
+	height: 300px;
+	position: relative;
+}
+
+#grafico-alertas-por-tipo-problema{
+	float: left;
+	width: 500px;
+	height: 300px;
+	position: relative;
+}
+
+#grafico-alertas-por-cidade{
+	float: left;
+	width: 650px;
+	height: 300px;
+	position: relative;
+}
+
+#grafico-analise-sentimento{
+	float: left;
+	width: 650px;
+	height: 300px;
+	position: relative;
+}
